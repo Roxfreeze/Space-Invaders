@@ -1,4 +1,4 @@
-
+# 簡述一下遇到的問題：在PlayerShoot或GameLayer的Class可能有錯誤，導致玩家操作的Actor無法射擊
 # coding: utf-8
 
 # In[1]:
